@@ -2,7 +2,6 @@
 
 Async-I-O-In-Memory-Database 🎲 is an extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
 
-> This is not production ready
 
 ## Why should you care?
 
